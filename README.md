@@ -55,5 +55,6 @@ Identify traders who outperform during fear — potential contrarians or mean-re
 Build a Streamlit dashboard for live sentiment-trader analysis
 Run clustering to categorize trader personas
 Train a model to predict profitable trades using sentiment + trade features
+
 📌 Conclusion
 This analysis demonstrates that market sentiment significantly impacts trader performance and behavior. By quantifying this relationship, we can design smarter trading strategies, improve risk management, and enable context-aware decision-making in volatile crypto markets.
